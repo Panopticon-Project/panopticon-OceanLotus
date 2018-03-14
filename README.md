@@ -5,3 +5,5 @@ https://www.volexity.com/blog/2017/11/06/oceanlotus-blossoms-mass-digital-survei
 http://www.securityweek.com/vietnamese-spies-rival-notorious-russian-group-sophistication
 
 http://www.securityweek.com/macos-backdoor-uses-innovative-disguise-technique
+
+https://www.securityweek.com/oceanlotus-spies-use-new-backdoor-recent-attacks

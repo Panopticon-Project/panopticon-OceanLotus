@@ -7,3 +7,5 @@ http://www.securityweek.com/vietnamese-spies-rival-notorious-russian-group-sophi
 http://www.securityweek.com/macos-backdoor-uses-innovative-disguise-technique
 
 https://www.securityweek.com/oceanlotus-spies-use-new-backdoor-recent-attacks
+
+https://www.scmagazineuk.com/oceanlotus-hacker-group-launches-malicious-macos-backdoor/article/756378/

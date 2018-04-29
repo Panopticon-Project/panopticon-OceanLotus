@@ -9,3 +9,5 @@ http://www.securityweek.com/macos-backdoor-uses-innovative-disguise-technique
 https://www.securityweek.com/oceanlotus-spies-use-new-backdoor-recent-attacks
 
 https://www.scmagazineuk.com/oceanlotus-hacker-group-launches-malicious-macos-backdoor/article/756378/
+
+https://www.securityweek.com/new-macos-backdoor-linked-cyber-espionage-group

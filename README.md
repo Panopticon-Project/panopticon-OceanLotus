@@ -25,3 +25,5 @@ https://www.securityweek.com/researchers-analyze-vietnamese-hackers-suite-rats
 https://www.technadu.com/vietnamese-hackers-apt32-hacked-hyundai-bmw/86959/
 
 https://www.securityweek.com/vietnamese-hackers-mount-covid-19-espionage-campaigns-against-china
+
+https://www.reuters.com/article/us-health-coronavirus-cyber-vietnam/vietnam-linked-hackers-targeted-chinese-government-over-coronavirus-response-researchers-idUSKCN2241C8

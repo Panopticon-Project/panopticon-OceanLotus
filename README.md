@@ -23,3 +23,5 @@ https://www.securityweek.com/vietnam-linked-hackers-use-atypical-executables-avo
 https://www.securityweek.com/researchers-analyze-vietnamese-hackers-suite-rats
 
 https://www.technadu.com/vietnamese-hackers-apt32-hacked-hyundai-bmw/86959/
+
+https://www.securityweek.com/vietnamese-hackers-mount-covid-19-espionage-campaigns-against-china

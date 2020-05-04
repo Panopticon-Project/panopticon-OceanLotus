@@ -29,3 +29,5 @@ https://www.securityweek.com/vietnamese-hackers-mount-covid-19-espionage-campaig
 https://www.reuters.com/article/us-health-coronavirus-cyber-vietnam/vietnam-linked-hackers-targeted-chinese-government-over-coronavirus-response-researchers-idUSKCN2241C8
 
 https://threatpost.com/sophisticated-android-spyware-google-play/155202/
+
+https://securelist.com/apt-phantomlance/96772/

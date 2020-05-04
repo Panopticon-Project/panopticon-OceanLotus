@@ -35,3 +35,5 @@ https://securelist.com/apt-phantomlance/96772/
 https://cyware.com/news/advanced-persistent-threats-apts-targeting-the-chinese-government-to-steal-covid-19-secrets-9c4f2c04
 
 https://www.cyberscoop.com/vietnamese-hackers-google-play-kaspersky-apt32/
+
+https://www.wired.com/story/phantomlance-google-play-malware-apt32/

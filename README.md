@@ -37,3 +37,5 @@ https://cyware.com/news/advanced-persistent-threats-apts-targeting-the-chinese-g
 https://www.cyberscoop.com/vietnamese-hackers-google-play-kaspersky-apt32/
 
 https://www.wired.com/story/phantomlance-google-play-malware-apt32/
+
+https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-government-in-covid-19-related-espionage.html

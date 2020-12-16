@@ -41,3 +41,5 @@ https://www.wired.com/story/phantomlance-google-play-malware-apt32/
 https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-government-in-covid-19-related-espionage.html
 
 https://threatvector.cylance.com/en_us/home/report-oceanlotus-apt-group-leveraging-steganography.html
+
+https://cyware.com/news/oceanlotus-now-targeting-macos-users-with-a-backdoor-34610612

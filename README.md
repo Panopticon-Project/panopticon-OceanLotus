@@ -43,3 +43,5 @@ https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-gov
 https://threatvector.cylance.com/en_us/home/report-oceanlotus-apt-group-leveraging-steganography.html
 
 https://cyware.com/news/oceanlotus-now-targeting-macos-users-with-a-backdoor-34610612
+
+https://labs.sentinelone.com/apt32-multi-stage-macos-trojan-innovates-on-crimeware-scripting-technique/

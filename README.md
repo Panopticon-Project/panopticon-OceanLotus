@@ -45,3 +45,9 @@ https://threatvector.cylance.com/en_us/home/report-oceanlotus-apt-group-leveragi
 https://cyware.com/news/oceanlotus-now-targeting-macos-users-with-a-backdoor-34610612
 
 https://labs.sentinelone.com/apt32-multi-stage-macos-trojan-innovates-on-crimeware-scripting-technique/
+
+https://securityaffairs.co/wordpress/112204/apt/facebook-apt32-vietnamese-firm.html
+
+https://www.bleepingcomputer.com/news/security/facebook-unmasks-vietnam-s-apt32-hacking-group/
+
+https://about.fb.com/news/2020/12/taking-action-against-hackers-in-bangladesh-and-vietnam/

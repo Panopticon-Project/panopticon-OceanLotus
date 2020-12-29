@@ -53,3 +53,5 @@ https://www.bleepingcomputer.com/news/security/facebook-unmasks-vietnam-s-apt32-
 https://about.fb.com/news/2020/12/taking-action-against-hackers-in-bangladesh-and-vietnam/
 
 https://www.trendmicro.com/en_us/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
+
+https://www.infosecurity-magazine.com/news/vietnamese-state-hackers-coin/

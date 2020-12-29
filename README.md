@@ -55,3 +55,5 @@ https://about.fb.com/news/2020/12/taking-action-against-hackers-in-bangladesh-an
 https://www.trendmicro.com/en_us/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
 
 https://www.infosecurity-magazine.com/news/vietnamese-state-hackers-coin/
+
+https://thehackernews.com/2020/12/facebook-tracks-apt32-oceanlotus.html

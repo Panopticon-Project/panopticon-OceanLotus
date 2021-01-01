@@ -59,3 +59,5 @@ https://www.infosecurity-magazine.com/news/vietnamese-state-hackers-coin/
 https://thehackernews.com/2020/12/facebook-tracks-apt32-oceanlotus.html
 
 https://securelist.com/apt-phantomlance/96772/
+
+https://web.br.de/interaktiv/ocean-lotus/en/

@@ -57,3 +57,5 @@ https://www.trendmicro.com/en_us/research/20/k/new-macos-backdoor-connected-to-o
 https://www.infosecurity-magazine.com/news/vietnamese-state-hackers-coin/
 
 https://thehackernews.com/2020/12/facebook-tracks-apt32-oceanlotus.html
+
+https://securelist.com/apt-phantomlance/96772/

@@ -63,3 +63,5 @@ https://securelist.com/apt-phantomlance/96772/
 https://web.br.de/interaktiv/ocean-lotus/en/
 
 https://www.cyberscoop.com/vietnam-hacking-oceanlotus-apt32-fake-news/
+
+https://www.recordedfuture.com/apt32-malware-campaign/

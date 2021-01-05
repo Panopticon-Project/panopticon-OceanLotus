@@ -65,3 +65,5 @@ https://web.br.de/interaktiv/ocean-lotus/en/
 https://www.cyberscoop.com/vietnam-hacking-oceanlotus-apt32-fake-news/
 
 https://www.recordedfuture.com/apt32-malware-campaign/
+
+https://labs.sentinelone.com/apt32-multi-stage-macos-trojan-innovates-on-crimeware-scripting-technique/

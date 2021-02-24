@@ -69,3 +69,5 @@ https://www.recordedfuture.com/apt32-malware-campaign/
 https://labs.sentinelone.com/apt32-multi-stage-macos-trojan-innovates-on-crimeware-scripting-technique/
 
 https://cpj.org/2021/02/vietnam-based-hacking-oceanlotus-targets-journalists/
+
+https://www.amnestyusa.org/wp-content/uploads/2021/02/Click-and-Bait_Vietnamese-Human-Rights-Defenders-Targeted-with-Spyware-Attacks.pdf

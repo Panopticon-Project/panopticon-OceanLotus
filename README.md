@@ -73,3 +73,5 @@ https://cpj.org/2021/02/vietnam-based-hacking-oceanlotus-targets-journalists/
 https://www.amnestyusa.org/wp-content/uploads/2021/02/Click-and-Bait_Vietnamese-Human-Rights-Defenders-Targeted-with-Spyware-Attacks.pdf
 
 https://blog.netlab.360.com/rotajakiro_linux_version_of_oceanlotus/
+
+https://www.secureworks.com/blog/detecting-cobalt-strike-government-sponsored-threat-groups

@@ -77,3 +77,5 @@ https://blog.netlab.360.com/rotajakiro_linux_version_of_oceanlotus/
 https://www.secureworks.com/blog/detecting-cobalt-strike-government-sponsored-threat-groups
 
 https://mp-weixin-qq-com.translate.goog/s/ZpU27cCSKa14aupNcCHcug?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=zh-CN
+
+https://www.bleepingcomputer.com/news/security/oceanlotus-hackers-turn-to-web-archive-files-to-deploy-backdoors/

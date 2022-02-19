@@ -79,3 +79,5 @@ https://www.secureworks.com/blog/detecting-cobalt-strike-government-sponsored-th
 https://mp-weixin-qq-com.translate.goog/s/ZpU27cCSKa14aupNcCHcug?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=zh-CN
 
 https://www.bleepingcomputer.com/news/security/oceanlotus-hackers-turn-to-web-archive-files-to-deploy-backdoors/
+
+https://cyware.com/news/bismuth-apt-using-old-legitimate-apps-for-dll-side-loading-in-cryptomining-campaign-e09df81c

@@ -81,3 +81,7 @@ https://mp-weixin-qq-com.translate.goog/s/ZpU27cCSKa14aupNcCHcug?_x_tr_sl=zh-CN&
 https://www.bleepingcomputer.com/news/security/oceanlotus-hackers-turn-to-web-archive-files-to-deploy-backdoors/
 
 https://cyware.com/news/bismuth-apt-using-old-legitimate-apps-for-dll-side-loading-in-cryptomining-campaign-e09df81c
+
+https://mp.weixin.qq.com/s/2RluW4O56UWiNSQB2hQtGA
+
+https://mp.weixin.qq.com/s/v2wiJe-YPG0ng87ffBB9FQ
